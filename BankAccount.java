@@ -1,5 +1,8 @@
 package ca.uwo.csd.cs2212.USERNAME;
 
+/**
+ * Bla
+ */
 public class BankAccount {
 
   private double balance;
